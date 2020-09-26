@@ -2,8 +2,6 @@
 
 Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Information Systems at UFSC and a passionate :notebook: FrontEnd Developer from Brazil. Beside's programming and studying, I enjoy playing games and learning new things.
 
-<img align="center" alt="GIF" src="sayyes.gif" width="500" height="220" />
-
 **Talking about me:**
 
 <img align="right" alt="GIF" src="coding.gif" width="300" height="320" />
