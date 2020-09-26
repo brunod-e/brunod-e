@@ -6,7 +6,7 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 **Talking about me:**
 
-<img align="right" alt="GIF" src="doglike.gif" width="300" height="320" />
+
 
 - :shipit: I’m currently not working;
 
