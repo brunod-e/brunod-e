@@ -17,8 +17,7 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
   
 - 💬 Ask me about anything, I'll help you;
 
-- :e-mail: You can reach me at my [Discord Community](https://discord.gg/jctq9Rt) 
-  or [here](https://www.linkedin.com/in/brunodelias/);
+- :e-mail: You can reach me [here](https://www.linkedin.com/in/brunodelias/);
   
 - 📈 I’m fluent in JavaScript, Python, HTML and CSS;
   
