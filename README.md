@@ -19,7 +19,7 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 - :e-mail: You can reach me [here](https://www.linkedin.com/in/brunodelias/);
   
-- 📈 I’m fluent in JavaScript, Python, HTML and CSS;
+- 📈 I’m coding in JavaScript, Python, HTML and CSS;
   
 <!-- - 📝 [My Resume](); -->
 
