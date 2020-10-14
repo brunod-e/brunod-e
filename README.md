@@ -1,4 +1,4 @@
-### *Yo! Did you said yes to code today?* :fire:
+## *Yo! Did you said yes to code today?* :fire:
 
 Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Information Systems at UFSC and a passionate :notebook: FrontEnd Developer from Brazil. Beside's programming and studying, I enjoy playing games and learning new things.
 
