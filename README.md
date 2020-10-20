@@ -6,7 +6,7 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 <img align="right" alt="GIF" src="coding.gif" width="300" height="320" />
 
-- :shipit: I’m currently not working;
+- :shipit: I’m currently working at Elint;
 
 - :coffee: I’m learning ReactJS,
   Typescript and MongoDB;
