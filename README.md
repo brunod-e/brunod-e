@@ -4,7 +4,7 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 **Talking about me:**
 
-<img align="right" alt="GIF" src="coding.gif" width="300" height="320" />
+<!-- <img align="right" alt="GIF" src="coding.gif" width="300" height="320" /> -->
 
 - :shipit: I’m currently working at Elint;
 
@@ -33,5 +33,4 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 **Wanna be my friend?**
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brunodelias/)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/brunod.e/)
 <a href="mailto:brunodaniel.elias@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
