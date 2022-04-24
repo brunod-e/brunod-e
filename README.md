@@ -9,7 +9,7 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 - :shipit: I’m currently working at Elint;
 
 - :coffee: I’m learning ReactJS,
-  Typescript and MongoDB;
+  Typescript and Blockchain Technology;
 
 - :open_file_folder: I’m looking to collaborate on anything open source;
 
@@ -27,7 +27,6 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 **Wanna be my friend?**
