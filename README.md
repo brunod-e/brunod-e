@@ -1,6 +1,6 @@
-## *Yo! Did you said yes to code today?* :fire:
+## *It’s not a bug — it’s an undocumented feature.* :fire:
 
-Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Information Systems at UFSC and a passionate :notebook: FrontEnd Developer from Brazil. Beside's programming and studying, I enjoy playing games and learning new things.
+Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Information Systems at UFSC and a passionate :notebook: FrontEnd Developer from Brazil.
 
 **Talking about me:**
 
@@ -13,7 +13,7 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 - :open_file_folder: I’m looking to collaborate on anything open source;
 
-- :video_game: My favorite games are Dark Soul's 1 & 3 and Skyrim;  
+- :video_game: My favorite games are Dark Souls 1 & 3 and Skyrim;  
   
 - 💬 Ask me about anything, I'll help you;
 
