@@ -20,9 +20,14 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 - :e-mail: You can reach me [here](https://www.linkedin.com/in/brunodelias/);
   
 - 📈 I’m coding in JavaScript, HTML and CSS;
-  
-<!-- - 📝 [My Resume](); -->
 
+<!--   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunod-e&show_icons=true&theme=github_dark&hide=contribs,issues,prs&count_private=true) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunod-e&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunode&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 **Languages & Tools that I like:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -33,7 +38,3 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brunodelias/)
 <a href="mailto:brunodaniel.elias@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunod-e&show_icons=true&theme=radical&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunod-e&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
