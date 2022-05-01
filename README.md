@@ -4,8 +4,6 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 **Talking about me:**
 
-<!-- <img align="right" alt="GIF" src="coding.gif" width="300" height="320" /> -->
-
 - :shipit: I’m currently working at Elint;
 
 - :coffee: I’m learning ReactJS,
@@ -20,9 +18,6 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 - :e-mail: You can reach me [here](https://www.linkedin.com/in/brunodelias/);
   
 - 📈 I’m coding in JavaScript, HTML and CSS;
-
-<!--   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunod-e&show_icons=true&theme=github_dark&hide=contribs,issues,prs&count_private=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunod-e&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
