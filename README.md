@@ -33,3 +33,5 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brunodelias/)
 <a href="mailto:brunodaniel.elias@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunod-e)](https://github.com/anuraghazra/github-readme-stats)
