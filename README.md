@@ -1,6 +1,6 @@
 ## *It’s not a bug — it’s an undocumented feature.* :fire:
 
-Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Information Systems at UFSC and a :notebook: FrontEnd Developer from Brazil.
+Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Information Systems at UFSC and a Web Developer from Brazil.
 
 **Talking about me:**
 
