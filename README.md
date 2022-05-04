@@ -6,14 +6,9 @@ Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Info
 
 - :shipit: I’m currently working at Elint;
 
-- :coffee: I’m learning ReactJS,
-  Typescript and Blockchain Technology;
-
-- :open_file_folder: I’m looking to collaborate on anything open source;
+- :coffee: I’m currently studying Typescript and Blockchain Technology;
 
 - :video_game: My favorite games are Dark Souls 1 & 3 and Skyrim;  
-  
-- 💬 Ask me about anything, I'll help you;
 
 - :e-mail: You can reach me [here](https://www.linkedin.com/in/brunodelias/);
   
