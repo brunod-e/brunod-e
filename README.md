@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer with experience in various fields, such as maintaining and optimizing applications, creating websites with user-friendly pages, and building solutions for users and customers. Currently, I'm working using React, TypeScript, and Redux with a JavaScript, HTML, and CSS basis.
 
-Would like to see more about my work? Send me a message.
+
 
 **Talking about me:**
 
@@ -23,9 +23,9 @@ Would like to see more about my work? Send me a message.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-**Wanna be my friend?**
+**Would like to see more about my work? Send me a message.**
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brunodelias/)
 <a href="mailto:brunodaniel.elias@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
