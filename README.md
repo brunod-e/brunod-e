@@ -1,18 +1,18 @@
 ## *It’s not a bug — it’s an undocumented feature.* :fire:
 
-Hi I'm [Bruno](https://www.linkedin.com/in/brunodelias/), a 🎓 student of Information Systems at UFSC and a Web Developer from Brazil.
+I'm a Frontend Developer with experience in various fields, such as maintaining and optimizing applications, creating websites with user-friendly pages, and building solutions for users and customers. Currently, I'm working using React, TypeScript, and Redux with a JavaScript, HTML, and CSS basis.
+
+Would like to see more about my work? Send me a message.
 
 **Talking about me:**
 
 - :shipit: I’m currently working at Elint;
 
-- :coffee: I’m currently studying Typescript and Blockchain Technology;
-
-- :video_game: My favorite games are Dark Souls 1 & 3 and Skyrim;  
+- :coffee: I’m currently studying Blockchain Technology;
 
 - :e-mail: You can reach me [here](https://www.linkedin.com/in/brunodelias/);
   
-- 📈 I’m coding in JavaScript, HTML and CSS;
+- 📈 I’m coding using React, TypeScript, and Redux with a JavaScript, HTML, and CSS basis.
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunod-e&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
