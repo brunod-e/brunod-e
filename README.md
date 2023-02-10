@@ -1,6 +1,6 @@
 ## *Keep it simple.* :fire:
 
-I am a web developer specializing in React and TypeScript with over 3 years of experience in web application development. I currently work with React and TypeScript as I believe that adding TypeScript to my workflow allows me to write clearer and more reliable code and ensures the delivery of high-quality projects. I have extensive experience in creating interactive and robust web applications, including e-commerce platforms, project management systems, and financial management apps. Additionally, I am able to easily integrate my applications with external APIs and libraries, making my projects complete and functional.
+I am a web developer with over 3 years of experience in web application development. I currently work with React and TypeScript, as I believe adding TypeScript to my workflow allows me to write clearer and more reliable code, while ensuring high-quality project delivery. I have extensive experience in creating interactive and robust web applications, including e-commerce platforms, project management systems, and financial control apps. Additionally, I am able to easily integrate my applications with external APIs and libraries, making my projects complete and functional.
 
 
 <!-- **Talking about me:**
