@@ -41,6 +41,6 @@ I am a web developer with over 3 years of experience in web application developm
  
 **Would like to see more about my work? Send me a message.**
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brunodelias/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/brunod-e/)
 <a href="mailto:brunodaniel.elias@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
