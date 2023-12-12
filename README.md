@@ -39,7 +39,7 @@ const brunode = {
     },
     knowledges: ["Server Side Rendering", "Single Page Applications", "Static Site Generation"],
     currentFocus: "Learning React Native",
-    favoriteGames: ["Dark Souls", "Dark Souls 3", "The Elder Scrolls: Skyrim"]
+    favoriteGames: ["Dark Souls", "Dark Souls 3", "The Elder Scrolls V: Skyrim"]
 };
 ```
   
