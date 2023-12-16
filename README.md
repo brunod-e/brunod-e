@@ -28,10 +28,10 @@ const brunode = {
     askMeAbout: ["web dev", "tech", "app dev", "games", "soulslike"],
     technologies: {
         frontEnd: {
-            js: ["ReactJs", "NextJs", "Vercel"],
+            js: ["React", "Next.js", "Vercel"],
         },
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node.js", "Fastify", "Express"],
         },
         devOps: ["AWS", "Docker", "Route53", "S3"],
         databases: ["MySql", "sqlite"],
